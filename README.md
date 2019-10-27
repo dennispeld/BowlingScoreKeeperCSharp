@@ -7,8 +7,6 @@ Added new validation that checks if both bowls for each frame are less or equal 
 * Each player has one game
 * The game consists of 10 frames
 * Each frame has 2 throws and a score
-* You call StartApp to begin the program
-* You call ScoreCard to show the results
 
 ### Tested combinations (one player):
 NORMAL   [1, 5] [3, 6] [7, 2] [3, 6] [4, 4] [5, 3] [3, 3] [4, 5] [8, 1] [2, 6] is 81  
