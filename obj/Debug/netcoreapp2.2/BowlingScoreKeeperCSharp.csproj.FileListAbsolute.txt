@@ -1,0 +1,11 @@
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\bin\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.deps.json
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\bin\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.runtimeconfig.json
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\bin\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\bin\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.dll
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\bin\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.pdb
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\obj\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\obj\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\obj\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\obj\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\obj\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.dll
+C:\Users\denis\OneDrive\Developer\BowlingScoreKeeperCSharp\obj\Debug\netcoreapp2.2\BowlingScoreKeeperCSharp.pdb
