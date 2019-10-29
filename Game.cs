@@ -18,17 +18,18 @@ namespace BowlingScoreKeeperCSharp
             SubmitScores();
         }
         
-        /**
-         * Calculate the game score
-         */
+        /// <summary>
+        /// Calculate the game score
+        /// </summary>
+        /// <returns>Score</returns>
         private int GetGameScore()
         {
             return AllFrames.Sum(frame => frame.FrameScore);
         }
         
-        /**
-         * Re-calculate scores for the frames with strikes
-         */
+        /// <summary>
+        /// Re-calculate scores for the frames with strikes
+        /// </summary>
         private void RecalculateStrikes() 
         {
             var frameLength = AllFrames.Length;
@@ -47,9 +48,9 @@ namespace BowlingScoreKeeperCSharp
             }
         }
         
-        /**
-         * Re-calculate scores for the frames with spares
-         */
+        /// <summary>
+        /// Re-calculate scores for the frames with spares
+        /// </summary>
         private void RecalculateSpares() 
         {
             var frameLength = AllFrames.Length;
@@ -72,9 +73,10 @@ namespace BowlingScoreKeeperCSharp
             }
         }
         
-        /**
-         * Give a player a bonus throw and return a bonus score
-         */
+        /// <summary>
+        /// Give a player a bonus throw and return a bonus score
+        /// </summary>
+        /// <returns>Bonus score</returns>
         private int StrikeOnLastFrame() 
         {
             var bonusFirstThrow = 0;
@@ -101,9 +103,10 @@ namespace BowlingScoreKeeperCSharp
             return bonusFirstThrow + bonusSecondThrow;
         }
         
-        /**
-         * Give a player a bonus throw and return a bonus score
-         */
+        /// <summary>
+        /// Give a player a bonus throw and return a bonus score
+        /// </summary>
+        /// <returns>Bonus throw</returns>
         private int SpareOnLastFrame() 
         {
             var bonusThrow = 0;
@@ -125,9 +128,9 @@ namespace BowlingScoreKeeperCSharp
             return bonusThrow;
         }
         
-        /**
-         * Submit scores
-         */
+        /// <summary>
+        /// Submit scores
+        /// </summary>
         private void SubmitScores() 
         {
             var frameLength = AllFrames.Length;
